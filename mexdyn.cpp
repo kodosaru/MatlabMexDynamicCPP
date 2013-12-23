@@ -10,7 +10,7 @@
  *
  *		mexdyn( call_type, <no_of_objects> )
  *
- * Run the program with "matlab -nojvm -r testmex
+ * Run the program with "matlab -nojvm -r call_mexdyn
  *
  *========================================================*/
 // Created by Don Johnson <kodosaru@gmail.com> on Dec 22, 2013
