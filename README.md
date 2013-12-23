@@ -1,7 +1,7 @@
 Example of Creating C++ Objects Dynamically in a MATLAB MEX File
 ==============
 
-Illustrates creating C++ objects in pre-allocated memory, and these MATLAB functions:
+Illustrates creating C++ objects in pre-allocated memory, and use of these MATLAB functions:
 --------------
 - mxMalloc to allocate memory for the C++ objects in a MEX file
 - mexMakeMemoryPersistent to preserve the memory between MEX calls
