@@ -27,13 +27,12 @@ using namespace std;
 
 extern void _main();
 
-MyData::MyData(int h, int v1, int v2)
-{
+MyData::MyData(int h, int v1, int v2){
 	handle = h;
-  	val1 = v1;
-  	val2 = v2;
-}
-
+	val1 = v1;
+	val2 = v2;
+};
+	
 void MyData::display()
 {
 	#ifdef _WIN32
