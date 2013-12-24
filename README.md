@@ -9,7 +9,7 @@ Illustrates creating C++ objects in pre-allocated memory, and use of these MATLA
 
 
 
-**Copy the files to your local machine and execute "run.sh"**
+**Clone the files to your local machine and execute "run.sh"**
 
 *Has been tested on Ubuntu 13.10 and 64-bit MATLAB R2013a*
 
