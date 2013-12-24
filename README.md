@@ -1,4 +1,4 @@
-Example of Creating C++ Objects Dynamically in a MATLAB MEX File
+Creating C++ Objects Dynamically in a MATLAB MEX File
 ==============
 
 Illustrates creating C++ objects in pre-allocated memory, and use of these MATLAB functions:
@@ -12,3 +12,5 @@ Illustrates creating C++ objects in pre-allocated memory, and use of these MATLA
 **Copy the files to your local machine and execute "run.sh"**
 
 *Has been tested on Ubuntu 13.10 and 64-bit MATLAB R2013a*
+
+**Happy Coding!**
