@@ -1,4 +1,4 @@
-![image](https://github.com/kodosaru/MatlabMexDynamicCPP/blob/master/images/Icon-Matlab.png?raw=true)
+![image](./images/Icon-Matlab.png)
 Dynamically Create C++ Objects in a MEX File
 =====================================================
 **Illustrates creating C++ objects in pre-allocated memory, and use of these MATLAB functions:**
